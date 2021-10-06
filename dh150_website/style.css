@@ -1,0 +1,18 @@
+body {
+ background-color:pink;
+}
+
+h1{
+ color:green;
+ font-family:timesnewroman;
+ border: 5px solid orange;
+}
+
+h3{
+  color:red;
+  font-family:timesnewroman;
+  }
+
+p{
+ color:#cd81cd;
+}
